@@ -1,0 +1,11 @@
+// /pages/index.tsx
+
+export default function Home() {
+  return (
+    <div style={{ fontFamily: 'sans-serif', padding: '2rem' }}>
+      <h1>🚀 MoDiorOS is LIVE</h1>
+      <p>Welcome to the future. Your OS for building empires, translating creativity into legacy.</p>
+      <a href="/api/vault">Enter the Vault</a>
+    </div>
+  );
+}
